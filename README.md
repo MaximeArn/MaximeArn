@@ -28,6 +28,8 @@ Aujourd’hui je suis développeur Fullstack Javascript en freelance pour diffé
 Contact : 
 
  —> Mail : arnould.maxime1907@gmail.com ✉️
+ 
 —> Portfolio : https://maxime-dev.com 💻
+
 —> Github : https://github.com/MaximeArn { }
 
