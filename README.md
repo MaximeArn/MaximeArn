@@ -31,5 +31,5 @@ Contact :
  
 —> Portfolio : https://maxime-dev.com 💻
 
-—> Github : https://github.com/MaximeArn { }
+—> Linkedin : https://www.linkedin.com/in/maxime-arnould-dev/ 
 
